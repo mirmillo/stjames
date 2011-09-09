@@ -1,3 +1,6 @@
+St James GR WordPress theme adapted from ->
+
+
 Amazing Grace Wordpress Theme v2.5
 http://www.prelovac.com/vladimir
 
