@@ -85,7 +85,7 @@ if ($post->post_parent)
     <li><a href="<?php echo get_settings('home'); ?>/" >Home</a></li>
     <li><a href="/about/">About</a></li>
     <li><a href="/service-times/">Service Times</a></li>
-    <li><a href="/upcoming-events/">Upcoming Events</a></li>
+<?php /*    <li><a href="/upcoming-events/">Upcoming Events</a></li> */ ?>
 	<li><a href="/category/newsletters/">Newsletters</a></li>
   </ul>
 </div>
