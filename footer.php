@@ -23,13 +23,8 @@ var pageTracker = _gat._getTracker("UA-2066285-7");
 pageTracker._trackPageview();
 </script>
 <script type="text/javascript">
-var woopra_id = '1342203074';
-</script>
-<script src="http://static.woopra.com/js/woopra.js"></script>
-<script type="text/javascript" src="http://include.reinvigorate.net/re_.js"></script>
-<script type="text/javascript">
-try {
-reinvigorate.track("309s8-z0ohs9715p");
-} catch(err) {}
-</script>
+jQuery(document).ready(function() {
+	jQuery("a.lightbox").fancybox();
+});
+	</script>
 </body></html>
